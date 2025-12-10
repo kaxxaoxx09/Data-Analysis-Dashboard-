@@ -13,4 +13,4 @@ To provide the store with specific business tips that help:
 3. Optimize marketing activities.
 
 ## Project link:
-https://app.powerbi.com/view?r=eyJrIjoiOGYwZGQzNTgtNWJmNS00ZjliLThjOTgtYzIwOWY4MDFjNzZjIiwidCI6IjNkZmU5YWI2LTgxYmYtND](https://app.powerbi.com/view?r=eyJrIjoiOGYwZGQzNTgtNWJmNS00ZjliLThjOTgtYzIwOWY4MDFjNzZjIiwidCI6IjNkZmU5YWI2LTgxYmYtNDkxYy1iNjcwLTAxYzgyNGEwOWUxOSJ9&embedImagePlaceholder=true)
+[https://app.powerbi.com/view?r=eyJrIjoiOGYwZGQzNTgtNWJmNS00ZjliLThjOTgtYzIwOWY4MDFjNzZjIiwidCI6IjNkZmU5YWI2LTgxYmYtND](https://app.powerbi.com/view?r=eyJrIjoiOGYwZGQzNTgtNWJmNS00ZjliLThjOTgtYzIwOWY4MDFjNzZjIiwidCI6IjNkZmU5YWI2LTgxYmYtNDkxYy1iNjcwLTAxYzgyNGEwOWUxOSJ9&embedImagePlaceholder=true)](https://app.powerbi.com/view?r=eyJrIjoiOGYwZGQzNTgtNWJmNS00ZjliLThjOTgtYzIwOWY4MDFjNzZjIiwidCI6IjNkZmU5YWI2LTgxYmYtNDkxYy1iNjcwLTAxYzgyNGEwOWUxOSJ9&embedImagePlaceholder=true )
