@@ -8,9 +8,9 @@
 
 ## Project goal:
 To provide the store with specific business tips that help:
-• increase sales,
-• make better decisions about offerings,
-• optimize marketing activities.
+1. Increase sales,
+2. Make better decisions about offerings,
+3. Optimize marketing activities.
 
 ## Project link 
 -<a https://app.powerbi.com/view?r=eyJrIjoiOGYwZGQzNTgtNWJmNS00ZjliLThjOTgtYzIwOWY4MDFjNzZjIiwidCI6IjNkZmU5YWI2LTgxYmYtND
