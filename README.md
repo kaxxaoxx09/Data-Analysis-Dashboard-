@@ -2,9 +2,9 @@
 ## I worked on a sales analysis for an e-commerce store, presenting sales trends and top-selling products by company and province.
 
 ## The report includes:
-1. Monitoring total sales
-2. Sales by product and brand
-3. Sales by province
+1. Monitoring total sales,
+2. Sales by product and brand,
+3. Sales by province.
 
 ## Project goal:
 To provide the store with specific business tips that help:
