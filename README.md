@@ -12,5 +12,5 @@ To provide the store with specific business tips that help:
 2. Make better decisions about offerings,
 3. Optimize marketing activities.
 
-## Project link 
+## Project link:
 https://app.powerbi.com/view?r=eyJrIjoiOGYwZGQzNTgtNWJmNS00ZjliLThjOTgtYzIwOWY4MDFjNzZjIiwidCI6IjNkZmU5YWI2LTgxYmYtND
